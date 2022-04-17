@@ -23,6 +23,7 @@ const Link = styled.a`
   display: flex;
   justify-content: center;
   align-items: center;
+  text-decoration: none;
 `;
 
 const Footer = () => {
