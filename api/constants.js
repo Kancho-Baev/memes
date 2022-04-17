@@ -1,0 +1,1 @@
+export const bttvUrl = 'https://api.betterttv.net/3/cached/users/twitch'
